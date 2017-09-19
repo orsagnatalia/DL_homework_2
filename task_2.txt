@@ -1,0 +1,45 @@
+[\s]o[^\s/]*@[^\s]*\.[^\s]*\s
+25
+
+outlook.team@enron.com
+
+ outlook.team@enron.com
+
+
+off-yild@zdemail.zdlists.com.
+
+ on-yild@zdemail.zdlists.com
+
+ owner-strawbale@crest.org
+
+ owner-strawbale@crest.org
+
+ owner-strawbale@crest.org
+
+ owner-strawbale@crest.org
+
+ outlook.team@enron.com
+
+ outlook-migration-team@enron.com
+
+outlook-migration-team@enron.com
+ove@commissioner.com 
+ online.service@schwab.com
+
+ oscar.dalton@enron.com, 
+ open2win.0ll1.net@mailman.enron.com
+
+ oportunity@cells4free.com
+
+
+off-yild@zdemail.zdlists.com.
+
+ on-yild@zdemail.zdlists.com
+
+ owner-strawbale@crest.org
+
+ owner-strawbale@crest.org
+
+ owner-strawbale@crest.org
+
+ owner-strawbale@crest.org
