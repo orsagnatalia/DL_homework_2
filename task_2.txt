@@ -1,3 +1,0 @@
-\<(o+)[\S]{0,}@.*?\.(com)
-1
-Line 5390: To: outlook.team@enron.com
